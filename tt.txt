@@ -1,0 +1,6 @@
+Ann Arbor, Brighton, 19.2
+Brighton, Farmington Hills, 21.4
+Plymouth, Farmington Hills, 14.0
+Ann Arbor, Plymouth, 17.2
+Ann Arbor, Romulus, 23.1
+Plymouth, Romulus, 23.1

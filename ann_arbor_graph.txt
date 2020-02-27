@@ -1,0 +1,16 @@
+Ann Arbor, Brighton, 19.2
+Ann Arbor, Plymouth, 17.2
+Ann Arbor, Romulus, 23.1
+Brighton, Farmington Hills, 21.4
+Brighton, Pontiac, 34.1
+Plymouth, Romulus, 23.1
+Plymouth, Farmington Hills, 14.0
+Plymouth, Detroit, 27.9
+Romulus, Detroit, 31.0
+Farmington Hills, Royal Oak, 16.9
+Farmington Hills, Detroit, 28.3
+Farmington Hills, Pontiac, 15.5
+Pontiac, Sterling Heights, 17.2
+Pontiac, Royal Oak, 13.3
+Romeo, Pontiac, 27.8
+Romeo, Sterling Heights, 16.5
